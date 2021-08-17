@@ -40,7 +40,8 @@ If you feel it's brusque to simply say **"Hi"** and ask the question, you can do
 something like this:
 
 ```yaml
-2021-08-19 12:32:12 you: Hi -- if you're not busy I was wondering if I could ask a question.  I'm working on [something] and I'm trying to do [etc...]
+2021-08-19 12:32:12 you: Hi -- if you're not busy I was wondering if I could ask 
+a question.  I'm working on [something] and I'm trying to do [etc...]
 ```
 
 ## Conclusion
